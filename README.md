@@ -1,6 +1,6 @@
-# Hi there 👋
+# Pedro Chaves Martins 👋
 
-I'm a information system student at FIAP and currently looking forward to aquire more work experiences, so I can improve even more.
+I'm Pedro Chaves, an information system student at FIAP and currently looking forward to aquire more work experiences, so I can improve even more.
 
 • 🔥 Passionate about Programming Languages, such as python and Java, and the ideia of artificial intelligence;
 
